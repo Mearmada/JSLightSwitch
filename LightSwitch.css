@@ -1,0 +1,22 @@
+body {
+	height:100%;
+}
+.lightsOff {
+	background-color: black;
+}
+.container {
+	text-align: center;
+	display:relative;
+}
+.btn-group-lg > .btn, .btn-lg {
+	margin-top: -100px;
+}
+.lightbulb {
+	height:250px;
+	width:250px;
+	display:relative;
+	margin:20% auto;
+	background-image: url("http://www.freeiconspng.com/uploads/file-simple-light-bulb-graphic--wikimedia-commons-21.png");
+	background-position: center center;
+	background-size: cover;
+}
